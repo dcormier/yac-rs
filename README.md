@@ -1,1 +1,1 @@
-# YAC (Yet Another Crate)
+# Yet Another Crate
